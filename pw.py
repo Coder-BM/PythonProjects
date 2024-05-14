@@ -10,7 +10,7 @@ import string
 upper = int(input(Fore.BLUE+Style.BRIGHT+"How many uppercase characters would you like? "))
 lower = int(input(Fore.GREEN+Style.BRIGHT+"How many lowercase characters would you like? "))
 special = int(input(Fore.YELLOW+Style.BRIGHT+"How many special characters would you like? "))
-num = int(input(Fore.MAGENTA+Style.BRIGHT+"How many numbers would you like ?"))
+num = int(input(Fore.MAGENTA+Style.BRIGHT+"How many numbers would you like? "))
 
 sum = upper+lower+special+num
 
